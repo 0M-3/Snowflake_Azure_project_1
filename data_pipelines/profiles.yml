@@ -6,8 +6,8 @@ data_pipelines:
       account: useqqwp-th02887
 
       # User/password auth
-      user: OMKAR2  
-      password: P00l$ome
+      user: 
+      password: 
 
       role: 'dbt_role'
       database: 'dbt_db'
